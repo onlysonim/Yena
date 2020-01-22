@@ -2,8 +2,9 @@
 <master1.cpp>
 
 
-Hello, Mater.1
+Hello, Master.1
 
+Add new text.1
 
 - ¹®¼­³¡ -
 
